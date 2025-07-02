@@ -49,6 +49,7 @@ pip install pybluez
 Sample Output:
 
 Scanning for Bluetooth devices...
+
 Found 2 devices.
   00:1A:7D:DA:71:13 - Bluetooth Speaker
   78:02:B7:AE:44:11 - Wireless Headphones
