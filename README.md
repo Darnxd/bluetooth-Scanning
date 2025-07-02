@@ -16,7 +16,7 @@ A simple Python script to scan for nearby Bluetooth devices using the `pybluez` 
 - Python 3.x
 - `pybluez` library (Bluetooth Classic support)
 
----
+
 
 ## 📦 Installation Guide
 
