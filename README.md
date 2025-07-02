@@ -26,7 +26,8 @@ A simple Python script to scan for nearby Bluetooth devices using the `pybluez` 
 
 python -m venv venv
 
-source venv/bin/activate   # On Windows: venv\Scripts\activate
+source venv/bin/activate   
+# On Windows: venv\Scripts\activate
 
 🧪 Install pybluez
 pip install pybluez
