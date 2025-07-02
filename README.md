@@ -9,7 +9,7 @@ A simple Python script to scan for nearby Bluetooth devices using the `pybluez` 
 - Displays MAC addresses and device names.
 - Runs from the command line.
 
----
+
 
 ## 🧰 Requirements
 
