@@ -36,6 +36,7 @@ pip install pybluez
 
 🐧 Linux (Ubuntu/Debian)
 sudo apt update
+
 sudo apt install bluetooth libbluetooth-dev python3-dev
 
 pip install pybluez
