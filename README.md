@@ -31,6 +31,7 @@ source venv/bin/activate
 On Windows: venv\Scripts\activate
 
 🧪 Install pybluez
+
 pip install pybluez
 
 🐧 Linux (Ubuntu/Debian)
