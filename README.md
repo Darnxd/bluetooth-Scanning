@@ -44,6 +44,7 @@ pip install pybluez
 sudo python bluetooth_scanner.py
 
 🪟 Windows
+
 pip install pybluez
 
 Sample Output:
