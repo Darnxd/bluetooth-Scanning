@@ -3,7 +3,7 @@
 
 A simple Python script to scan for nearby Bluetooth devices using the `pybluez` library.
 
-## 🚀 Features
+🚀 Features
 
 - Scans nearby Bluetooth Classic devices.
 - Displays MAC addresses and device names.
